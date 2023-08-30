@@ -1,11 +1,11 @@
 <h1 align="center"> Hi, I'm Arda Computer Engineer
 <h3 align="center">Technologies I know</h3>
 <p align="center"><br>
-<a href="https://html.com"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img></a> 
+<a href="https://html.com/"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img></a> 
 <a href="https://www.w3.org/Style/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img></a>
-<a href="https://javascript.com"><img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img></a>
+<a href="https://javascript.com/"><img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img></a>
 <a href=https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img></a>
-<a href=https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img></a>
+<a href=https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img></a>
 
 <p> <b>I'm Arda Avcı, I'm 20 years old and I'm currently dealing with Java development. I love research and software development, my future goals are to be an expert in other software areas.</b></p>
                                                                                                                        
