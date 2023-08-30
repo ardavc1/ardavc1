@@ -14,7 +14,7 @@
  <p align="center">
 <a href="https://www.linkedin.com/in/ardavc1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>     
 <a href="https://www.instagram.com/ardavc1/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-<a href="https://discord.com/users/334335827918454785" target="_blank"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit"></img></a>
+<a href="https://discord.com/users/334335827918454785" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit"></img></a>
 <p align="center">
 <a href=""><img alt="" src="https://komarev.com/ghpvc/?username=Worlex0&color=dc143c"></img></a>
 </p>
@@ -24,8 +24,8 @@
 </br></p>
 
 <p align="center">
-<img height=200 width=500 src="https://github-readme-stats.vercel.app/api?username=wonderlux&theme=dark&hide_border=true"></img>
-<img height=198 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderlux&theme=dark&hide_border=true&layout=compact"></img>
+<img height=200 width=500 src="https://github-readme-stats.vercel.app/api?username=ardavc1&theme=dark&hide_border=true"></img>
+<img height=198 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardavc1&theme=dark&hide_border=true&layout=compact"></img>
 </p>
 <br>                                 
                                                                                                                            
