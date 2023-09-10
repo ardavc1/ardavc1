@@ -26,6 +26,7 @@
  <hr>
 
 <p align="center">
+<img height=200 width=500 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardavc1&theme=highcontrast"></img>
 <img height=200 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardavc1&theme=highcontrast&hide_border=true&layout=compact"></img>
 <img height=200 width=500 src="https://github-readme-stats.vercel.app/api?username=ardavc1&count_private=true&show_icons=true&theme=highcontrast"></img>
 
