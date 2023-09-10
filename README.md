@@ -8,6 +8,7 @@
 <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img></a>
 
 <p> <b>I'm Arda Avcı, I'm 20 years old and I'm currently studying computer engineering at Istanbul University - Cerrahpaşa. I am a university student who has been trying to improve himself in software for a while. During my high school years, I worked in the field of Web and Robotics. At the moment, I am improving myself on these subjects and new subjects that I am learning at university.</b></p>
+
                                                                                                                        
  <h3 align="center">Contact</h3>                                                                                                                          
  <hr>
@@ -16,17 +17,22 @@
 <a href="https://www.instagram.com/ardavc1/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <a href="https://discord.com/users/334335827918454785" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit"></img></a>
 <p align="center">
-<a href=""><img alt="" src="https://komarev.com/ghpvc/?username=Worlex0&color=dc143c"></img></a>
 </p>
  </p>                                                                                                                          
   
                                                                                                                            
-</br></p>
+</br></p> 
+ <h3 align="center">Github Stats</h3>                                                                                                                          
+ <hr>
 
 <p align="center">
-<img height=200 width=500 src="https://github-readme-stats.vercel.app/api?username=ardavc1&theme=dark&hide_border=true"></img>
-<img height=198 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardavc1&theme=dark&hide_border=true&layout=compact"></img>
+<img height=200 width=500 src="https://github-readme-stats.vercel.app/api?username=ardavc1&count_private=true&show_icons=true&theme=highcontrast"></img>
+<img height=200 width=500 src="https://github-profile-trophy.vercel.app/?username=ardavc1&theme=onedark"></img>
+<img height=200 width=500 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardavc1&theme=highcontrast"></img>
+<img height=200 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardavc1&theme=highcontrast&hide_border=true&layout=compact"></img>
+
+
 </p>
-<br>                                 
+<br> 
                                                                                                                            
                                                                                                                                                 
