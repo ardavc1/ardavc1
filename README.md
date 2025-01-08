@@ -7,7 +7,7 @@
 <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img></a>
 <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img></a>
 
-<p> <b>I'm Arda Avcı, I'm 20 years old and I'm currently studying computer engineering at Istanbul University - Cerrahpaşa. I am a university student who has been trying to improve himself in software for a while. During my high school years, I worked in the field of Web and Robotics. At the moment, I am improving myself on these subjects and new subjects that I am learning at university.</b></p>
+<p> <b>I'm Arda Avcı, I'm 21 years old and I'm currently studying computer engineering at Istanbul University - Cerrahpaşa. I am a university student who has been trying to improve himself in software for a while. During my high school years, I worked in the field of Web and Robotics. At the moment, I am improving myself on these subjects and new subjects that I am learning at university.</b></p>
 
                                                                                                                        
  <h3 align="center">Contact</h3>                                                                                                                          
